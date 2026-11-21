@@ -1,2 +1,9 @@
 print("hello world")
-
+print(6)
+print(6.7)
+print("True")
+print("India, Pakistan, Bangladesh")
+print("India, 5, True")
+print("India", "Pakistan", "Bangladesh", sep='/')
+print("Hello",end=' ')
+print("World")
