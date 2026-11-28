@@ -33,3 +33,7 @@ print({1,2,3,4})
 #dictionaries
 print({'Name': 'Tannu', 'Age' : 20, 'City': 'Dhanbad'})
 
+
+#COMMENTS
+# This is a single line comment
+
